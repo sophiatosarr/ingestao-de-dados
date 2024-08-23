@@ -1,0 +1,2 @@
+# Testar ingestão de dados da Dog API
+GET http://localhost:5000/ingest_dog_data
